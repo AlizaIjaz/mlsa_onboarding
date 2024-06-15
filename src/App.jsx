@@ -31,7 +31,7 @@ const siteProps = {
   instagram: "alizaijaz2",
   linkedIn: "Aliza Ijaz",
   medium: "",
-  twitter: "alizaijaz",
+  twitter: "alizaaliza",
   youTube: "",
 };
 

@@ -18,7 +18,7 @@ import React from "react";
  */
 import image from "../images/code.jpg";
 
-const imageAltText = "codee background photo";
+const imageAltText = "code background picture";
 
 /**
  * Sort description that expands on your title on the Home component.
