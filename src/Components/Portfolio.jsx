@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "Android Appfor Autistic Kids",
     description:
-      "An android application to enhance learning among autistic childrens.",
+      "An android application that enhance learning among autistic childrens.",
     url: "https://github.com/AlizaIjaz/House-Price-Prediction-",
   },
   {

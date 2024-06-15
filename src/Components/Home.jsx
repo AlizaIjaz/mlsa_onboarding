@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/android.jpg";
 
-const imageAltText = "Aliza Ijaz Web DEveloper and Android Developer . This is background photo";
+const imageAltText = "Aliza  Web DEveloper and Android Developer . This is background photo";
 
 const Home = ({ name, title }) => {
   return (
